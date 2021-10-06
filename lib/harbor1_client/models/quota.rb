@@ -50,7 +50,7 @@ module Harbor1Client
       {
         :'id' => :'Integer',
         :'ref' => :'QuotaRefObject',
-        :'hard' => :'ResourceList',
+        :'hard' => :'Object',
         :'used' => :'ResourceList',
         :'creation_time' => :'String',
         :'update_time' => :'String'

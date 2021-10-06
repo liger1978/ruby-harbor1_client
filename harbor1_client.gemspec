@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Richard Grainger"]
   s.email       = ["harbottle@room3d3.com"]
-  s.homepage    = "https://github.com/liger1978/ruby-harbor2_client"
+  s.homepage    = "https://github.com/liger1978/ruby-harbor1_client"
   s.summary     = "A ruby wrapper for the Harbor swagger APIs"
   s.description = "A ruby wrapper for the Harbor swagger APIs"
   s.license     = 'MIT'
