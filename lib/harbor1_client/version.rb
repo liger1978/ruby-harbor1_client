@@ -11,5 +11,5 @@ Swagger Codegen version: 2.4.22
 =end
 
 module Harbor1Client
-  VERSION = '1.10.8.0'
+  VERSION = '1.10.8.1'
 end
